@@ -35,7 +35,7 @@ Modular design makes it easy to swap models, update prompts, or extend the chat 
     ollama serve
     ollama pull deepseek-coder:1.5b
      
-  4. Launch the app:
+  3. Launch the app:
 
     streamlit run app.py
     
